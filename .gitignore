@@ -1,0 +1,13 @@
+# Build artifacts
+bin/
+obj/
+*.user
+*.suo
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# BepInEx runtime generated
+BepInEx/LogOutput.log
+BepInEx/config/*.cfg

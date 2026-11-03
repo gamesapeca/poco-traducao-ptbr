@@ -1,0 +1,43 @@
+id,name,sprite,description
+1,Axe,Axe,"Um machadinho minúsculo, bem do seu tamanho. Corta madeira e afasta intrusos."
+2,Old Key,OldKey,Uma chavezinha de metal gasta pelo tempo. Quem será que ela trancava?
+3,Bone Key,BoneKey,Uma chave de osso apodrecida e fedorenta. Digna de um filme de terror.
+4,Golden Key,GoldenKey,Uma chave ornamentada que parece importante. Reluz status e mistério.
+5,Coin,Coin,Aceitam pagamento em palhaçada? A moeda oficial dos desocupados.
+6,Worm Castings,WormCastings,Uma montanha de puro esterco e cocô de minhoca. Um adubo de respeito.
+7,Machete,Machete,"Uma faca gigante, manchada de... tinta vermelha? É melhor não perguntar."
+8,Snail Slime,SnailSlime,Uma meleca grudenta de baba de caracol. Gruda até pensamento.
+9,Magenta Blossom,MagentaBlossom,"Uma majestosa flor cor magenta. Deslumbrante, voraz e cheia de vida."
+10,Cyan Berries,CyanBerries,"Umas frutinhas ciano bem bonitinhas. Parecem deliciosas, mas não coma."
+11,Yellow Moss,YellowMoss,Um tufo úmido de musgo amarelo. Macio como uma esponja esquecida na pia.
+12,Magenta Pigment,MagentaPigment,Uma pilhazinha de pó magenta. Cuidado para não espirrar perto dele.
+13,Cyan Pigment,CyanPigment,Uma pilha de polpa úmida cor ciano. A essência do pigmento azulado.
+14,Yellow Pigment,YellowPigment,Uma pilha de pó amarelo vibrante. Pura cor solar triturada.
+15,Red Paint,RedPaint,Um tubo de tinta vermelha intensa. O sonho de consumo de qualquer artista.
+16,Green Paint,GreenPaint,Um tubo de tinta verde viva. Quase dá para sentir cheiro de folhagem fresca.
+17,Blue Paint,BluePaint,Um tubo de tinta azul profundo. Tão serena quanto as águas do submundo.
+18,Potato Battery,PotatoBattery,"Por algum milagre da ciência, gera eletricidade. Não tente fritar."
+19,Maggot,Maggot,Uma larvinha desavisada. Mal sabe o destino aquático que a aguarda.
+20,Fish,Fish,Um peixe grande e horroroso das profundezas. Tem uma cara de poucos amigos.
+22,Carrot,Carrot,Isso sim é uma cenoura gigante! Daria para alimentar uma família de coelhos.
+23,Bucket,Bucket,Um balde vazio que anseia desesperadamente por algum líquido.
+24,Beetle Milk,BeetleMilk,Eca. Não faça perguntas indiscretas sobre como foi ordenhado.
+25,Frying Pan,FryingPan,Uma frigideira velha e engordurada. Guarda o sabor de mil refeições duvidosas.
+26,Match,Match,Um fósforo pisoteado que ainda deve funcionar. Basta uma boa riscada.
+27,Coal,Coal,Um punhado de pedacinhos de carvão esfarelados. Puro combustível raiz.
+28,Cooked Fish Dinner,CookedFishDinner,Meus cumprimentos ao chef! (E minhas sinceras condolências ao estômago.)
+29,Spoon,Spoon,Uma colher comicamente gigante. Perfeita para uma porção de ogro ou remar um barco.
+30,Rope,Rope,"Um pedaço de corda reforçada. Ideal para escaladas, amarras ou fuga de prisões."
+31,Feather,Feather,Uma pena grande e eriçada de um pássaro bem mal-encarado.
+32,Basic Button,Button1,Um botão comum. Nada de muito fofo nem chique. Apenas... um botão.
+33,Cute Button,Button2,Um botão fofinho que parece um docinho. Dá até vontade de morder.
+34,Fancy Button,Button3,Um botão requintado. Imagina só o sobretudo elegante de onde esse cara caiu.
+35,Cymbal Button,CymbalButton,Um prato de bateria que virou botão. Uma verdadeira heresia musical.
+36,Cog,Cog,Uma engrenagem dentada. Muito steampunk para o meu gosto.
+37,Valve Handle,ValveHandle,Uma manivela giratória de válvula. Feita sob medida para ser torcida.
+38,Pacifier,Pacifier,"Uma chupeta para um bebê muito, muito pequenininho. Acalma feras selvagens."
+39,Bug Steak,BugSteak,Um corte nobre de dentro do exoesqueleto. Suculência pura em formato de inseto.
+40,Dog Treat,DogTreat,"Tem gosto de terra. (Sim, eu tive a audácia de experimentar.)"
+41,Rocket Thruster,RocketThruster,O terço inferior do foguete. A pura força bruta da decolagem.
+42,Rocket Hull,RocketHull,A fuselagem central do foguete. O coração oco da nossa espaçonave.
+43,Rocket Tip,RocketTip,O bico pontiagudo do foguete. Cortará os céus rumo ao infinito!
